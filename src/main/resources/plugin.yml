@@ -1,0 +1,16 @@
+name: Survival1.20
+author: Javierdz
+main: cs.javierdz.customsurvival
+
+commands:
+  help:
+    description: Plugin help
+    aliases:
+      - help
+      - survivalhelp
+
+  muertes:
+    description: Displays your deaths
+    aliases:
+      - muertes
+      - deaths
